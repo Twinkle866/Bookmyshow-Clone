@@ -1,0 +1,124 @@
+*{
+       margin:0;
+       padding:0;
+       font-family: "Roboto", sans-serif;
+}
+
+
+.navbar{
+  height:65px;
+  width:100vw;
+  display:flex;
+  align-items: center;
+  background-color: #ffffff;
+  justify-content: space-around;
+}
+
+
+.logo-search{
+       height:50px;
+       width:720px;
+       display:flex;
+       justify-content:space-between;
+       align-items: center;
+}
+
+.Logo{
+       height:60px;
+       width:165px;
+      
+       background-size: contain;
+       background-color:transparent;
+}
+.Search{
+       width:600px;
+       height:35px;
+       background-color: #ffffff;
+       border:1px solid rgb(238, 238, 238);
+       border-radius:5px;
+       display:flex;
+       align-items:center;
+
+}
+input[type=text]{
+border: none;
+width:500px;
+height:35px;
+font-size: 14px;
+
+}
+
+.location-signin{
+       display:flex;
+       justify-content: space-evenly;
+       align-items: center;
+       height: 35px;
+       width:280px;
+
+}
+.location{
+       color:#1A1A1A;
+       font-size: 15px;
+       height:25px;
+       width:100px;
+       transform:translateY(3px);
+}
+
+.signin{
+height:25px;
+width:70px;
+background-color: #F84464;
+color:#ffffff;
+border:1px solid rgb(248, 68, 100);
+border-radius: 5px;
+font-size: 12px;
+margin-right:5px;
+}
+
+.categories{
+       height:40px;
+       width:100vw;
+       background-color: #f5f5f5;
+       display:flex;
+       justify-content: space-around;
+       border-bottom: 2px solid rgb(238, 238, 238);
+}
+.entertain{
+       height:40px;
+       width:400px;
+       display: flex;
+       justify-content: space-evenly;
+       align-items: center;
+       transform: translateX(-70px);
+}
+.item{
+       font-size: 14px;
+       color:#333333;
+       list-style-type: none;
+}
+
+.services{
+       height:40px;
+       width:350px;
+       display:flex;
+       justify-content: space-evenly;
+       align-items: center;
+       transform: translateX(70px);
+
+}
+
+.offer{
+       font-size: 12px;
+       color:#333333;
+       list-style-type: none;
+}
+
+.spacing{
+       height:30px;
+       width:100vw;
+       background-color: #f5f5f5;
+}
+
+.movies{
+       
+}
