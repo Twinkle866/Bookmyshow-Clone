@@ -4,10 +4,9 @@
        font-family: "Roboto", sans-serif;
 }
 
-body {
-       overflow-x: hidden;
+body{
+       overflow-x:hidden;
 }
-
 .navbar {
        height: 65px;
        width: 100vw;
@@ -151,17 +150,48 @@ input[type=text] {
 .see-all {
        color: #dc3558;
        font-size: 14px;
-
+       transform: translateY(5px);
 }
 
 .movie {
-       height: 380px;
-       width: 225px;
+       height: 378px;
+       width: 222px;
        border-radius: 10px;
 }
 
+.title {
+       margin-top: 10px;
+}
+
+.nameofmov {
+       font-size: 18px;
+       color: #222222;
+       margin-bottom: 8px;
+
+}
+
+.genre {
+       font-size: 16px;
+       color: #666666;
+       font-weight: 400;
+}
+
+.slider1 {
+       height: 40px;
+       width: 40px;
+       background-color: #999999;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       border-radius: 50%;
+       position: relative;
+       left: 200px;
+       top: -270px;
+
+}
+
 .streaming {
-       height: 250px;
+       height: 150px;
        width: 100vw;
        display: flex;
        justify-content: center;
@@ -187,6 +217,18 @@ input[type=text] {
        justify-content: space-evenly;
 }
 
+.slider2 {
+       height: 40px;
+       width: 40px;
+       background-color: #999999;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       border-radius: 50%;
+       position: relative;
+       left: 210px;
+       top: -140px;
+}
 
 .type {
        height: 230px;
@@ -195,7 +237,7 @@ input[type=text] {
 }
 
 .premiere {
-       height: 140px;
+       height: 150px;
        width: 100vw;
        background-color: #2b3148;
        display: flex;
@@ -204,7 +246,7 @@ input[type=text] {
 }
 
 .about-premiere {
-       height: 60px;
+       height: 55px;
        width: 100vw;
        box-sizing: border-box;
        padding: 0px 150px;
@@ -212,7 +254,7 @@ input[type=text] {
 }
 
 .releases {
-       height: 420px;
+       height: 445px;
        width: 100vw;
        background-color: #2b3148;
        box-sizing: border-box;
@@ -225,6 +267,37 @@ input[type=text] {
        height: 333px;
        width: 222px;
        border-radius: 10px;
+}
+
+.relname {
+       margin-top: 10px;
+}
+
+.nameoflaunch {
+       font-size: 18px;
+       color: #ffffff;
+       margin-bottom: 10px;
+
+}
+
+.genre-launch {
+       font-size: 16px;
+       color: #ffffff;
+       font-weight: 400;
+}
+
+.slider3 {
+       height: 40px;
+       width: 40px;
+       background-color: #999999;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       border-radius: 50%;
+       position: relative;
+       left: 205px;
+       top: -250px;
+
 }
 
 .music {
