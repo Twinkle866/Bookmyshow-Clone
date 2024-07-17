@@ -1,6 +1,5 @@
 # BookMyShow Clone
 
-This project is a clone of the popular ticket booking platform bookmyshow.com built using HTML and CSS. The goal is to replicate its core functionalities and user interface, providing a similar experience for browsing and booking tickets for movies, events, and other entertainment activities.
-
+This project is a clone of the popular ticket booking website, BookMyShow. The purpose of this project is to practice and demonstrate skills in web development using only HTML and CSS. The clone replicates the look and feel of the original website, providing a user-friendly interface for browsing and searching movies and events, viewing details.
 
 
