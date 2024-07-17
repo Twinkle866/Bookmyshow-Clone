@@ -4,11 +4,13 @@
        font-family: "Roboto", sans-serif;
 }
 
-body{
-       overflow-x:hidden;
+body {
+       overflow-x: hidden;
 }
-.navbar { /*top main navabar*/
-       height: 65px;    
+
+.navbar {
+       /*top main navabar*/
+       height: 65px;
        width: 100vw;
        display: flex;
        align-items: center;
@@ -80,7 +82,8 @@ input[type=text] {
        margin-right: 5px;
 }
 
-.categories {  /* second sub navabar*/
+.categories {
+       /* second sub navabar*/
        height: 40px;
        width: 100vw;
        background-color: #f5f5f5;
@@ -121,7 +124,7 @@ input[type=text] {
 }
 
 /*section 1*/
-.spacing {  
+.spacing {
        height: 30px;
        width: 100vw;
        background-color: #f5f5f5;
@@ -138,7 +141,7 @@ input[type=text] {
 }
 
 /*section 2*/
-.recommend { 
+.recommend {
        color: #333333;
        width: 100vw;
        height: 35px;
@@ -338,41 +341,42 @@ input[type=text] {
 }
 
 .performance {
-       width:200px;
-       height:45px;
+       width: 200px;
+       height: 45px;
        font-size: 18px;
        color: #222222;
        margin-bottom: 8px;
        font-weight: 500;
-     
+
 }
 
-.pic2{
-       height:45px;
+.pic2 {
+       height: 45px;
 }
 
-.pic3{
-       height:25px;
+.pic3 {
+       height: 25px;
 }
 
-.pic4{
-       width:220px;
+.pic4 {
+       width: 220px;
 }
+
 .perform-loca {
-       width:220px;
+       width: 220px;
        font-size: 16px;
        color: #666666;
        font-weight: 400;
-     
-      line-height:22px;
+
+       line-height: 22px;
 }
 
-.concert{
+.concert {
        font-size: 16px;
        color: #666666;
        font-weight: 400;
-       height:25px;
-       margin-top:4px;
+       height: 25px;
+       margin-top: 4px;
 }
 
 .slider4 {
@@ -422,35 +426,37 @@ input[type=text] {
 }
 
 .placename {
-       width:220px;
-       height:45px;
+       width: 220px;
+       height: 45px;
        font-size: 18px;
        color: #222222;
        margin-bottom: 8px;
        font-weight: 500;
-     
+
 }
 
-.firstpic,.thirdpic, .fourthpic{
+.firstpic,
+.thirdpic,
+.fourthpic {
 
-height:20px;
+       height: 20px;
 }
 
 .placeloca {
-       width:220px;
+       width: 220px;
        font-size: 16px;
        color: #666666;
        font-weight: 400;
-     
-      line-height:22px;
+
+       line-height: 22px;
 }
 
-.concert{
+.concert {
        font-size: 16px;
        color: #666666;
        font-weight: 400;
-       height:25px;
-       margin-top:4px;
+       height: 25px;
+       margin-top: 4px;
 }
 
 .slider5 {
@@ -495,30 +501,32 @@ height:20px;
 }
 
 
-.event-to-visit{
+.event-to-visit {
        margin-top: 10px;
 }
 
 .eventname {
-       width:230px;
-       height:45px;
+       width: 230px;
+       height: 45px;
        font-size: 18px;
        color: #222222;
        margin-bottom: 8px;
        font-weight: 500;
-     
+
 }
 
-.secondeve,.thirdeve, .fourtheve{
-height:20px;
+.secondeve,
+.thirdeve,
+.fourtheve {
+       height: 20px;
 }
 
 .eventloca {
-       width:220px;
+       width: 220px;
        font-size: 16px;
        color: #666666;
        font-weight: 400;
-      line-height:22px;
+       line-height: 22px;
 }
 
 .slider6 {
@@ -564,31 +572,32 @@ height:20px;
 }
 
 
-.laughter-therapy-events{
+.laughter-therapy-events {
        margin-top: 10px;
 }
 
 .laugh-eventname {
-       width:230px;
-       height:45px;
+       width: 230px;
+       height: 45px;
        font-size: 18px;
        color: #222222;
        margin-bottom: 8px;
        font-weight: 500;
-     
+
 }
 
 
-.le1,.le4{
-       height:25px; 
+.le1,
+.le4 {
+       height: 25px;
 }
 
-.laugh-eventloca{
-       width:220px;
+.laugh-eventloca {
+       width: 220px;
        font-size: 16px;
        color: #666666;
        font-weight: 400;
-      line-height:20px;
+       line-height: 20px;
 }
 
 
@@ -635,30 +644,30 @@ height:20px;
 }
 
 
-.prominent-events{
+.prominent-events {
        margin-top: 10px;
 }
 
 .pop-eventname {
-       width:230px;
-       height:45px;
+       width: 230px;
+       height: 45px;
        font-size: 18px;
        color: #222222;
        margin-bottom: 8px;
        font-weight: 500;
-     
+
 }
 
-.pe5{
-       height:25px; 
+.pe5 {
+       height: 25px;
 }
 
-.pop-eventloca{
-       width:220px;
+.pop-eventloca {
+       width: 220px;
        font-size: 16px;
        color: #666666;
        font-weight: 400;
-      line-height:20px;
+       line-height: 20px;
 }
 
 
@@ -674,7 +683,6 @@ height:20px;
        left: 200px;
        top: -280px;
 }
-
 
 
 /*section 11*/
@@ -706,30 +714,31 @@ height:20px;
 }
 
 
-.Newest-events{
+.Newest-events {
        margin-top: 10px;
 }
 
 .lat-eventname {
-       width:230px;
-       height:45px;
+       width: 230px;
+       height: 45px;
        font-size: 18px;
        color: #222222;
        margin-bottom: 8px;
        font-weight: 500;
-     
+
 }
 
-.la3,.la5{
-       height:25px; 
+.la3,
+.la5 {
+       height: 25px;
 }
 
-.lat-eventlang{
-       width:220px;
+.lat-eventlang {
+       width: 220px;
        font-size: 16px;
        color: #666666;
        font-weight: 400;
-      line-height:20px;
+       line-height: 20px;
 }
 
 
@@ -744,4 +753,230 @@ height:20px;
        position: relative;
        left: 200px;
        top: -270px;
+}
+
+
+/*section 12*/
+
+.games-sports {
+       height: 65px;
+       width: 100vw;
+       background-color: #f5f5f5;
+       box-sizing: border-box;
+       padding: 30px 150px 30px 150px;
+       display: flex;
+       justify-content: space-between;
+}
+
+.topgames-sportsevents {
+       height: 500px;
+       width: 100vw;
+       background-color: #f5f5f5;
+       box-sizing: border-box;
+       padding: 0px 135px;
+       display: flex;
+       justify-content: space-around;
+}
+
+.keysports-pics {
+       height: 380px;
+       width: 222px;
+       border-radius: 10px;
+}
+
+
+.games-and-sports {
+       margin-top: 10px;
+}
+
+.sports-name {
+       width: 230px;
+       height: 45px;
+       font-size: 18px;
+       color: #222222;
+       margin-bottom: 8px;
+       font-weight: 500;
+
+}
+
+.se1,
+.se2,
+.se5 {
+       height: 25px;
+}
+
+.sports-loca {
+       width: 220px;
+       font-size: 16px;
+       color: #666666;
+       font-weight: 400;
+       line-height: 20px;
+}
+
+
+.slider11 {
+       height: 40px;
+       width: 40px;
+       background-color: #999999;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       border-radius: 50%;
+       position: relative;
+       left: 200px;
+       top: -295px;
+}
+
+/* section 13*/
+
+.trending-search {
+       height: 65px;
+       width: 100vw;
+       background-color: #f5f5f5;
+       box-sizing: border-box;
+       padding: 30px 150px 30px 150px;
+       display: flex;
+       justify-content: flex-start;
+
+}
+
+.searches {
+       height: 200px;
+       width: 100vw;
+       background-color: #f5f5f5;
+       box-sizing: border-box;
+       padding: 30px 150px 30px 150px;
+       display: flex;
+       justify-content: flex-start;
+       flex-wrap: wrap;
+       gap: 15px;
+}
+
+.name {
+       color: #F84464;
+       font-size: 16px;
+       font-weight: 500;
+
+}
+
+.type {
+       color: #666666;
+       font-size: 14px;
+       height: 20px;
+       width: 44px
+}
+
+.trend1 {
+       height: 70px;
+       width: 160px;
+       background-color: white;
+       padding: 14px 45px 12px 16px;
+       box-sizing: border-box;
+
+
+}
+
+.ts1 {
+       height: 20px;
+       width: 100px;
+}
+
+.trend2 {
+       height: 70px;
+       width: 105px;
+       background-color: white;
+       padding: 14px 45px 12px 16px;
+       box-sizing: border-box;
+
+}
+
+.trend3 {
+       height: 70px;
+       width: 288px;
+       background-color: white;
+       padding: 14px 45px 12px 16px;
+       box-sizing: border-box;
+
+}
+
+.ts3 {
+       width: 230px;
+       height: 20px;
+}
+
+.trend4 {
+       height: 70px;
+       width: 161px;
+       background-color: white;
+       padding: 14px 45px 12px 16px;
+       box-sizing: border-box;
+
+}
+
+.ts4 {
+       height: 20px;
+       width: 105px;
+}
+
+.trend5 {
+       height: 70px;
+       width: 132px;
+       background-color: white;
+       box-sizing: border-box;
+       padding: 14px 45px 12px 16px;
+}
+
+.ts5 {
+       height: 20px;
+       width: 90px;
+}
+
+.trend6 {
+       height: 70px;
+       width: 127px;
+       background-color: white;
+       box-sizing: border-box;
+       padding: 14px 45px 12px 16px;
+}
+
+.trend7 {
+       height: 70px;
+       width: 108px;
+       background-color: white;
+       box-sizing: border-box;
+       padding: 14px 45px 12px 16px;
+}
+
+.trend8 {
+       height: 70px;
+       width: 146px;
+       box-sizing: border-box;
+       background-color: white;
+       padding: 14px 45px 12px 16px;
+}
+
+.ts8 {
+       width: 86px;
+       height: 20px;
+}
+
+.trend9 {
+       height: 70px;
+       width: 413px;
+       box-sizing: border-box;
+       background-color: white;
+       padding: 14px 45px 12px 16px;
+}
+
+.ts9 {
+       width: 355px;
+       height: 20px
+}
+
+.trend10 {
+       height: 70px;
+       width: 113px;
+       background-color: white;
+       box-sizing: border-box;
+       padding: 14px 45px 12px 16px;
 }
