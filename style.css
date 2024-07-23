@@ -1252,13 +1252,13 @@ input[type=text] {
 .copyright {
        width: 100%;
        height: 98px;
-       padding:30px;
+       padding: 30px;
        box-sizing: border-box;
 
 }
 
-.copyright p{
- color:#666666;
- font-size: 11px;
- text-align: center;
+.copyright p {
+       color: #666666;
+       font-size: 11px;
+       text-align: center;
 }
