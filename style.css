@@ -46,6 +46,12 @@ body {
 
 }
 
+.magnifying-icon{
+       color:#999999; 
+       margin-left:10px; 
+       margin-right:10px; 
+       transform: scale(0.9);
+}
 input[type=text] {
        border: none;
        width: 500px;
@@ -60,7 +66,6 @@ input[type=text] {
        align-items: center;
        height: 35px;
        width: 280px;
-
 }
 
 .location {
@@ -71,6 +76,10 @@ input[type=text] {
        transform: translateY(3px);
 }
 
+.angle{
+       margin-left:15px;
+        transform: scale(0.7);
+}
 .signin {
        height: 25px;
        width: 70px;
@@ -1149,6 +1158,8 @@ input[type=text] {
        background-color: #333338;
 
 }
+
+
 
 .prt1 {
        display: flex;
